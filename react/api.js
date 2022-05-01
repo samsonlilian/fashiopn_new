@@ -13,32 +13,14 @@ class App extends React.Component {
   
   //image  https://www.pexels.com/search/clothes/
     // This binding is necessary to make `this` work in the callback
-    this.handleClickDelete = this.handleClickDelete.bind(this);
+  
   }
 
 	state = {
 		fashions: []
 	}
 	
-	//to delete the data
-	  handleClickDelete(e) {
-
-	let id=e.target.id;		
-	const recipeUrl = 'https://mi-linux.wlv.ac.uk/~2043338/task/public/index.php/task/delete/'+ id;
-    const requestMetadata = {
-        method: 'GET',
-        headers: {
-            'Content-Type': 'application/json'
-        },
-    };
-    fetch(recipeUrl, requestMetadata)
-        .then(res => res.json())
-        .then(recipes => {
-            console.log(recipes);
-		
-			
-		  });
-    };
+	
 	
 	 
 	
