@@ -1,0 +1,61 @@
+ERROR - 2022-05-05 17:49:23 --> Column 'available' cannot be null
+CRITICAL - 2022-05-05 18:11:32 --> Undefined variable $response
+#0 /home/stud/1/2115822/public_html/fashion_api/app/Controllers/FashionC.php(59): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/stud/1/2115822/public_html/fashion_api/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\FashionC->buyme()
+#2 /home/stud/1/2115822/public_html/fashion_api/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#3 /home/stud/1/2115822/public_html/fashion_api/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/stud/1/2115822/public_html/fashion_api/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-05 18:12:55 --> Undefined variable $response
+#0 /home/stud/1/2115822/public_html/fashion_api/app/Controllers/FashionC.php(61): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/stud/1/2115822/public_html/fashion_api/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\FashionC->buyme()
+#2 /home/stud/1/2115822/public_html/fashion_api/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#3 /home/stud/1/2115822/public_html/fashion_api/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/stud/1/2115822/public_html/fashion_api/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-05 18:13:03 --> Too few arguments to function App\Controllers\FashionC::buyme(), 0 passed in /home/stud/1/2115822/public_html/fashion_api/vendor/codeigniter4/framework/system/CodeIgniter.php on line 832 and exactly 1 expected
+#0 /home/stud/1/2115822/public_html/fashion_api/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\FashionC->buyme()
+#1 /home/stud/1/2115822/public_html/fashion_api/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 /home/stud/1/2115822/public_html/fashion_api/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/stud/1/2115822/public_html/fashion_api/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-05 18:13:12 --> Too few arguments to function App\Controllers\FashionC::buyme(), 0 passed in /home/stud/1/2115822/public_html/fashion_api/vendor/codeigniter4/framework/system/CodeIgniter.php on line 832 and exactly 1 expected
+#0 /home/stud/1/2115822/public_html/fashion_api/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\FashionC->buyme()
+#1 /home/stud/1/2115822/public_html/fashion_api/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 /home/stud/1/2115822/public_html/fashion_api/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/stud/1/2115822/public_html/fashion_api/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-05 18:13:14 --> Too few arguments to function App\Controllers\FashionC::buyme(), 0 passed in /home/stud/1/2115822/public_html/fashion_api/vendor/codeigniter4/framework/system/CodeIgniter.php on line 832 and exactly 1 expected
+#0 /home/stud/1/2115822/public_html/fashion_api/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\FashionC->buyme()
+#1 /home/stud/1/2115822/public_html/fashion_api/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 /home/stud/1/2115822/public_html/fashion_api/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/stud/1/2115822/public_html/fashion_api/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-05 18:14:13 --> Undefined variable $response
+#0 /home/stud/1/2115822/public_html/fashion_api/app/Controllers/FashionC.php(61): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/stud/1/2115822/public_html/fashion_api/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\FashionC->buyme()
+#2 /home/stud/1/2115822/public_html/fashion_api/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#3 /home/stud/1/2115822/public_html/fashion_api/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/stud/1/2115822/public_html/fashion_api/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-05 18:15:24 --> Undefined variable $response
+#0 /home/stud/1/2115822/public_html/fashion_api/app/Controllers/FashionC.php(61): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/stud/1/2115822/public_html/fashion_api/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\FashionC->buyme()
+#2 /home/stud/1/2115822/public_html/fashion_api/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#3 /home/stud/1/2115822/public_html/fashion_api/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/stud/1/2115822/public_html/fashion_api/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-05 18:18:31 --> Undefined variable $response
+#0 /home/stud/1/2115822/public_html/fashion_api/app/Controllers/FashionC.php(63): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/stud/1/2115822/public_html/fashion_api/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\FashionC->buyme()
+#2 /home/stud/1/2115822/public_html/fashion_api/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#3 /home/stud/1/2115822/public_html/fashion_api/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/stud/1/2115822/public_html/fashion_api/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-05 18:19:05 --> Undefined variable $response
+#0 /home/stud/1/2115822/public_html/fashion_api/app/Controllers/FashionC.php(63): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/stud/1/2115822/public_html/fashion_api/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\FashionC->buyme()
+#2 /home/stud/1/2115822/public_html/fashion_api/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#3 /home/stud/1/2115822/public_html/fashion_api/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/stud/1/2115822/public_html/fashion_api/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
